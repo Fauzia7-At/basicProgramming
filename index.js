@@ -11,3 +11,5 @@ function primenum(num){
     }
 }
 console.log(primenum(8))
+
+// 

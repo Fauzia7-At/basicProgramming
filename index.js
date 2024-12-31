@@ -1,4 +1,4 @@
-function Primenum(num){
+function primenum(num){
     if(num<=1){
        return false; 
     }
@@ -9,5 +9,5 @@ function Primenum(num){
     }
  return true; //no divisor found return prime
     }
-   
-console.log(8);
+}
+console.log(primenum(8))
